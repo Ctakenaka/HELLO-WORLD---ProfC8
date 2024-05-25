@@ -1,0 +1,26 @@
+   h2{
+      color:rgb(99, 116, 56);  
+   }
+
+   body{
+      background-color: #000000;  
+      color: rgb(255, 255, 255);
+      font-family: Verdana;
+      text-align: center;      
+  }  
+
+   header{
+      border-bottom: 1px solid rgb(46, 112, 49);
+   }
+
+   footer{
+      border-top: 2px solid rgb(91, 100, 74);
+   }
+
+   #nome-usuário{
+      font-weight: bold;
+   }
+
+   .texto-inglês{
+      font-style: italic;
+   }   
